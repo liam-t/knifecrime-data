@@ -10,10 +10,14 @@ const client = new MongoClient(url, {
 (async () => {
   try {
     await client.connect();
+    console.log('db connected');
     const db = await client.db(dbName);
     const records = await db.collection('byQuarter').find().toArray();
     console.log('records: %o', records);
-  } catch (error) {
-    console.error(error.stack);
+  } catch ({ stack }) {
+    console.error(stack);
+  } finally {
+    client.close();
+    console.log('db connection closed');
   }
 })();
