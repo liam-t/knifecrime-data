@@ -1,0 +1,612 @@
+[
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 6991,
+        "knifeEnabledQuarterlyAverage": 1747.75
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 7286,
+        "knifeEnabledQuarterlyAverage": 1821.5
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 8334,
+        "knifeEnabledQuarterlyAverage": 2083.5
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 9438,
+        "knifeEnabledQuarterlyAverage": 2359.5
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 7256,
+        "knifeEnabledQuarterlyAverage": 1814
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 5935,
+        "knifeEnabledQuarterlyAverage": 1483.75
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 4820,
+        "knifeEnabledQuarterlyAverage": 1205
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 4605,
+        "knifeEnabledQuarterlyAverage": 1151.25
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 5800,
+        "knifeEnabledQuarterlyAverage": 1450
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 8221,
+        "knifeEnabledQuarterlyAverage": 2055.25
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 8848,
+        "knifeEnabledQuarterlyAverage": 2212
+      }
+    ],
+    "regionTotal": 77534,
+    "name": "London"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 2424,
+        "knifeEnabledQuarterlyAverage": 121.2
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 1946,
+        "knifeEnabledQuarterlyAverage": 97.3
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 1737,
+        "knifeEnabledQuarterlyAverage": 86.85
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 1527,
+        "knifeEnabledQuarterlyAverage": 76.35
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 1371,
+        "knifeEnabledQuarterlyAverage": 68.55
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 1519,
+        "knifeEnabledQuarterlyAverage": 75.95
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 1257,
+        "knifeEnabledQuarterlyAverage": 62.85
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 1242,
+        "knifeEnabledQuarterlyAverage": 62.1
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 1341,
+        "knifeEnabledQuarterlyAverage": 67.05
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 1768,
+        "knifeEnabledQuarterlyAverage": 88.4
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 2662,
+        "knifeEnabledQuarterlyAverage": 133.1
+      }
+    ],
+    "regionTotal": 18794,
+    "name": "North West"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 2181,
+        "knifeEnabledQuarterlyAverage": 136.3125
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 1863,
+        "knifeEnabledQuarterlyAverage": 116.4375
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 2153,
+        "knifeEnabledQuarterlyAverage": 134.5625
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 1633,
+        "knifeEnabledQuarterlyAverage": 102.0625
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 1087,
+        "knifeEnabledQuarterlyAverage": 67.9375
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 1157,
+        "knifeEnabledQuarterlyAverage": 72.3125
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 1050,
+        "knifeEnabledQuarterlyAverage": 65.625
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 1314,
+        "knifeEnabledQuarterlyAverage": 82.125
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 1614,
+        "knifeEnabledQuarterlyAverage": 100.875
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 2072,
+        "knifeEnabledQuarterlyAverage": 129.5
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 2461,
+        "knifeEnabledQuarterlyAverage": 153.8125
+      }
+    ],
+    "regionTotal": 18585,
+    "name": "West Midlands"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 996,
+        "knifeEnabledQuarterlyAverage": 62.25
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 994,
+        "knifeEnabledQuarterlyAverage": 62.125
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 1011,
+        "knifeEnabledQuarterlyAverage": 63.1875
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 898,
+        "knifeEnabledQuarterlyAverage": 56.125
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 873,
+        "knifeEnabledQuarterlyAverage": 54.5625
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 891,
+        "knifeEnabledQuarterlyAverage": 55.6875
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 928,
+        "knifeEnabledQuarterlyAverage": 58
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 953,
+        "knifeEnabledQuarterlyAverage": 59.5625
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 1141,
+        "knifeEnabledQuarterlyAverage": 71.3125
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 1532,
+        "knifeEnabledQuarterlyAverage": 95.75
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 1653,
+        "knifeEnabledQuarterlyAverage": 103.3125
+      }
+    ],
+    "regionTotal": 11870,
+    "name": "Yorkshire"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 1128,
+        "knifeEnabledQuarterlyAverage": 56.4
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 996,
+        "knifeEnabledQuarterlyAverage": 49.8
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 936,
+        "knifeEnabledQuarterlyAverage": 46.8
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 894,
+        "knifeEnabledQuarterlyAverage": 44.7
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 776,
+        "knifeEnabledQuarterlyAverage": 38.8
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 657,
+        "knifeEnabledQuarterlyAverage": 32.85
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 527,
+        "knifeEnabledQuarterlyAverage": 26.35
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 692,
+        "knifeEnabledQuarterlyAverage": 34.6
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 863,
+        "knifeEnabledQuarterlyAverage": 43.15
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 1096,
+        "knifeEnabledQuarterlyAverage": 54.8
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 1558,
+        "knifeEnabledQuarterlyAverage": 77.9
+      }
+    ],
+    "regionTotal": 10123,
+    "name": "South East"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 1062,
+        "knifeEnabledQuarterlyAverage": 53.1
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 943,
+        "knifeEnabledQuarterlyAverage": 47.15
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 790,
+        "knifeEnabledQuarterlyAverage": 39.5
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 810,
+        "knifeEnabledQuarterlyAverage": 40.5
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 713,
+        "knifeEnabledQuarterlyAverage": 35.65
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 791,
+        "knifeEnabledQuarterlyAverage": 39.55
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 707,
+        "knifeEnabledQuarterlyAverage": 35.35
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 607,
+        "knifeEnabledQuarterlyAverage": 30.35
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 794,
+        "knifeEnabledQuarterlyAverage": 39.7
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 977,
+        "knifeEnabledQuarterlyAverage": 48.85
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 1081,
+        "knifeEnabledQuarterlyAverage": 54.05
+      }
+    ],
+    "regionTotal": 9275,
+    "name": "East Midlands"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 931,
+        "knifeEnabledQuarterlyAverage": 38.791666666666664
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 747,
+        "knifeEnabledQuarterlyAverage": 31.125
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 731,
+        "knifeEnabledQuarterlyAverage": 30.458333333333332
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 638,
+        "knifeEnabledQuarterlyAverage": 26.583333333333332
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 622,
+        "knifeEnabledQuarterlyAverage": 25.916666666666668
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 610,
+        "knifeEnabledQuarterlyAverage": 25.416666666666668
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 622,
+        "knifeEnabledQuarterlyAverage": 25.916666666666668
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 722,
+        "knifeEnabledQuarterlyAverage": 30.083333333333332
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 998,
+        "knifeEnabledQuarterlyAverage": 41.583333333333336
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 1100,
+        "knifeEnabledQuarterlyAverage": 45.833333333333336
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 1116,
+        "knifeEnabledQuarterlyAverage": 46.5
+      }
+    ],
+    "regionTotal": 8837,
+    "name": "East"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 654,
+        "knifeEnabledQuarterlyAverage": 32.7
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 579,
+        "knifeEnabledQuarterlyAverage": 28.95
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 512,
+        "knifeEnabledQuarterlyAverage": 25.6
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 463,
+        "knifeEnabledQuarterlyAverage": 23.15
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 380,
+        "knifeEnabledQuarterlyAverage": 19
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 325,
+        "knifeEnabledQuarterlyAverage": 16.25
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 415,
+        "knifeEnabledQuarterlyAverage": 20.75
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 339,
+        "knifeEnabledQuarterlyAverage": 16.95
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 488,
+        "knifeEnabledQuarterlyAverage": 24.4
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 532,
+        "knifeEnabledQuarterlyAverage": 26.6
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 641,
+        "knifeEnabledQuarterlyAverage": 32.05
+      }
+    ],
+    "regionTotal": 5328,
+    "name": "South West"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 216,
+        "knifeEnabledQuarterlyAverage": 18
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 196,
+        "knifeEnabledQuarterlyAverage": 16.333333333333332
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 210,
+        "knifeEnabledQuarterlyAverage": 17.5
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 206,
+        "knifeEnabledQuarterlyAverage": 17.166666666666668
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 203,
+        "knifeEnabledQuarterlyAverage": 16.916666666666668
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 198,
+        "knifeEnabledQuarterlyAverage": 16.5
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 246,
+        "knifeEnabledQuarterlyAverage": 20.5
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 294,
+        "knifeEnabledQuarterlyAverage": 24.5
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 306,
+        "knifeEnabledQuarterlyAverage": 25.5
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 329,
+        "knifeEnabledQuarterlyAverage": 27.416666666666668
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 389,
+        "knifeEnabledQuarterlyAverage": 32.416666666666664
+      }
+    ],
+    "regionTotal": 2793,
+    "name": "North East"
+  },
+  {
+    "years": [
+      {
+        "year": "2008/09",
+        "knifeEnabledYearTotal": 236,
+        "knifeEnabledQuarterlyAverage": 14.75
+      },
+      {
+        "year": "2009/10",
+        "knifeEnabledYearTotal": 193,
+        "knifeEnabledQuarterlyAverage": 12.0625
+      },
+      {
+        "year": "2010/11",
+        "knifeEnabledYearTotal": 191,
+        "knifeEnabledQuarterlyAverage": 11.9375
+      },
+      {
+        "year": "2011/12",
+        "knifeEnabledYearTotal": 149,
+        "knifeEnabledQuarterlyAverage": 9.3125
+      },
+      {
+        "year": "2012/13",
+        "knifeEnabledYearTotal": 120,
+        "knifeEnabledQuarterlyAverage": 7.5
+      },
+      {
+        "year": "2013/14",
+        "knifeEnabledYearTotal": 131,
+        "knifeEnabledQuarterlyAverage": 8.1875
+      },
+      {
+        "year": "2014/15",
+        "knifeEnabledYearTotal": 139,
+        "knifeEnabledQuarterlyAverage": 8.6875
+      },
+      {
+        "year": "2015/16",
+        "knifeEnabledYearTotal": 136,
+        "knifeEnabledQuarterlyAverage": 8.5
+      },
+      {
+        "year": "2016/17",
+        "knifeEnabledYearTotal": 167,
+        "knifeEnabledQuarterlyAverage": 10.4375
+      },
+      {
+        "year": "2017/18",
+        "knifeEnabledYearTotal": 208,
+        "knifeEnabledQuarterlyAverage": 13
+      },
+      {
+        "year": "2018/19",
+        "knifeEnabledYearTotal": 252,
+        "knifeEnabledQuarterlyAverage": 15.75
+      }
+    ],
+    "regionTotal": 1922,
+    "name": "Wales"
+  }
+]
