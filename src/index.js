@@ -70,7 +70,7 @@ const client = new MongoClient(url, {
       ])
       .toArray();
 
-    // writeToFile(regionOverview, `data/regionOverview.json`);
+    // writeToFile(regionOverview, `data/exports/regionOverview.json`);
 
     // console.log('forceNames: %o', forceNames);
     // console.log('clevelandGroup: %o', clevelandGroup);
