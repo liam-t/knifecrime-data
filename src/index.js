@@ -12,8 +12,36 @@ const client = new MongoClient(url, {
     await client.connect();
     console.log('db connected');
     const db = await client.db(dbName);
-    const records = await db.collection('byQuarter').find().toArray();
-    console.log('records: %o', records);
+    const byQuarterCollection = db.collection('byQuarter');
+    const records = await byQuarterCollection.find().toArray();
+    const forceNames = await byQuarterCollection
+      .aggregate([{ $group: { _id: 0, names: { $addToSet: '$forceName' } } }])
+      .toArray();
+
+    const clevelandGroup = await byQuarterCollection
+      .aggregate([
+        { $match: { forceName: 'Cleveland' } },
+        { $sort: { financialQuarter: 1 } },
+        {
+          $group: {
+            _id: '$financialYear',
+            quarters: {
+              $push: {
+                _id: '$$ROOT.financialQuarter',
+                knifeEnabled: '$$ROOT.knifeEnabled',
+              },
+            },
+            totalYearKnifeEnabled: { $sum: '$$ROOT.knifeEnabled' },
+          },
+        },
+        { $addFields: { quarterlyKnifeEnabledAvg: { $avg: '$quarters.knifeEnabled' } } },
+        { $sort: { _id: -1 } },
+      ])
+      .toArray();
+
+    // console.log('forceNames: %o', forceNames);
+    console.log('clevelandGroup: %o', clevelandGroup);
+    // console.log('records: %o', records);
   } catch ({ stack }) {
     console.error(stack);
   } finally {
