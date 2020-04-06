@@ -46,7 +46,7 @@ const client = new MongoClient(url, {
         years: 1,
         regionTotal: 1,
       } },
-      { $sort: { regionTotal: -1 } },
+      { $sort: { regionTotal: 1 } },
     ]).toArray();
 
     const clevelandGroup = await byQuarterCollection
