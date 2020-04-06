@@ -27,14 +27,14 @@ const client = new MongoClient(url, {
         knifeEnabled: { $avg: '$knifeEnabled' },
       } },
       { $sort: { 'knifeEnabled': 1 } },
-      {
-        $replaceRoot: {
-          newRoot: {
-            name: { $concat: ['$_id.region', ' - ', '$_id.financialYear'] },
-            averageKnifeEnabled: '$knifeEnabled',
-          },
-        },
-      },
+      // {
+      //   $replaceRoot: {
+      //     newRoot: {
+      //       name: { $concat: ['$_id.region', ' - ', '$_id.financialYear'] },
+      //       averageKnifeEnabled: '$knifeEnabled',
+      //     },
+      //   },
+      // },
       // { $group: {
       //   _id: '$_id.region',
       //   years: { $addToSet: {
