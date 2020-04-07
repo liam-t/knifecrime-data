@@ -84,7 +84,7 @@ const client = new MongoClient(url, {
       knifeCrimeDataPointsByRegion,
     };
 
-    // writeToFile(dataToWrite, `data/exports/regionOverview.json`);
+    // writeToFile(dataToWrite, `data/exports/data.json`);
   } catch ({ stack }) {
     console.error(stack);
   } finally {
