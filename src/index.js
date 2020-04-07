@@ -17,9 +17,7 @@ const client = new MongoClient(url, {
 
     const records = await byQuarterCollection.find().toArray();
 
-    const forceNames = await byQuarterCollection
-      .aggregate([{ $group: { _id: 0, names: { $addToSet: '$forceName' } } }])
-      .toArray();
+    const forceNames = await byQuarterCollection.distinct('Region');
 
     const regionOverview = await byQuarterCollection.aggregate([
       { $group: {
@@ -27,55 +25,66 @@ const client = new MongoClient(url, {
           region: '$Region',
           financialYear: '$financialYear',
         },
-        knifeEnabledYearTotal: { $sum: '$knifeEnabled' },
-        knifeEnabledQuarterlyAverage: { $avg: '$knifeEnabled' },
+        knifeCrimeYearTotal: { $sum: '$knifeCrime' },
+        knifeCrimeQuarterlyAverage: { $avg: '$knifeCrime' },
       } },
       { $sort: { '_id.financialYear': 1 } },
       { $group: {
         _id: '$_id.region',
         years: { $push: {
           year: '$_id.financialYear',
-          knifeEnabledYearTotal: '$knifeEnabledYearTotal',
-          knifeEnabledQuarterlyAverage: '$knifeEnabledQuarterlyAverage',
+          knifeCrimeYearTotal: '$knifeCrimeYearTotal',
+          knifeCrimeQuarterlyAverage: '$knifeCrimeQuarterlyAverage',
         } },
-        regionTotal: { $sum: '$knifeEnabledYearTotal' },
+        knifeCrimeTotal: { $sum: '$knifeCrimeYearTotal' },
       }},
       { $project: {
         _id: 0,
         name: '$_id',
         years: 1,
-        regionTotal: 1,
+        knifeCrimeTotal: 1,
       } },
-      { $sort: { regionTotal: 1 } },
+      { $sort: { knifeCrimeTotal: 1 } },
     ]).toArray();
 
-    const clevelandGroup = await byQuarterCollection
-      .aggregate([
-        { $match: { forceName: 'Cleveland' } },
-        { $sort: { financialQuarter: 1 } },
-        {
-          $group: {
-            _id: '$financialYear',
-            quarters: {
-              $push: {
-                _id: '$$ROOT.financialQuarter',
-                knifeEnabled: '$$ROOT.knifeEnabled',
-              },
-            },
-            totalYearKnifeEnabled: { $sum: '$$ROOT.knifeEnabled' },
-          },
+    const knifeCrimeDataPointsByRegion = await byQuarterCollection.aggregate([
+      { $group: {
+        _id: {
+          region: '$Region',
+          year: '$financialYear',
+          quarter: '$financialQuarter',
         },
-        { $addFields: { quarterlyKnifeEnabledAvg: { $avg: '$quarters.knifeEnabled' } } },
-        { $sort: { _id: -1 } },
-      ])
-      .toArray();
+        knifeCrime: { $sum: '$knifeCrime' },
+      } },
+      { $sort: {
+        '_id.year': 1,
+        '_id.quarter': 1,
+      } },
+      { $group: {
+        _id: '$_id.region',
+        points: { $push: {
+          year: '$_id.year',
+          quarter: '$_id.quarter',
+          knifeCrime: '$knifeCrime',
+        } },
+        total: { $sum: '$knifeCrime'},
+      } },
+      { $project: {
+        _id: 0,
+        name: '$_id',
+        points: 1,
+        total: 1,
+      } },
+      { $sort: { total: 1 } },
+    ]).toArray();
 
-    // writeToFile(regionOverview, `data/exports/regionOverview.json`);
+    const dataToWrite = {
+      forceNames,
+      regionOverview,
+      knifeCrimeDataPointsByRegion,
+    };
 
-    // console.log('forceNames: %o', forceNames);
-    // console.log('clevelandGroup: %o', clevelandGroup);
-    // console.log('regionOverview: %o', regionOverview);
-    console.log('records: %o', records);
+    // writeToFile(dataToWrite, `data/exports/regionOverview.json`);
   } catch ({ stack }) {
     console.error(stack);
   } finally {

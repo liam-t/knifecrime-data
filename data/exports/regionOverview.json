@@ -1,612 +1,2888 @@
-[
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 236,
-        "knifeEnabledQuarterlyAverage": 14.75
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 193,
-        "knifeEnabledQuarterlyAverage": 12.0625
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 191,
-        "knifeEnabledQuarterlyAverage": 11.9375
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 149,
-        "knifeEnabledQuarterlyAverage": 9.3125
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 120,
-        "knifeEnabledQuarterlyAverage": 7.5
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 131,
-        "knifeEnabledQuarterlyAverage": 8.1875
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 139,
-        "knifeEnabledQuarterlyAverage": 8.6875
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 136,
-        "knifeEnabledQuarterlyAverage": 8.5
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 167,
-        "knifeEnabledQuarterlyAverage": 10.4375
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 208,
-        "knifeEnabledQuarterlyAverage": 13
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 252,
-        "knifeEnabledQuarterlyAverage": 15.75
-      }
-    ],
-    "regionTotal": 1922,
-    "name": "Wales"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 216,
-        "knifeEnabledQuarterlyAverage": 18
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 196,
-        "knifeEnabledQuarterlyAverage": 16.333333333333332
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 210,
-        "knifeEnabledQuarterlyAverage": 17.5
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 206,
-        "knifeEnabledQuarterlyAverage": 17.166666666666668
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 203,
-        "knifeEnabledQuarterlyAverage": 16.916666666666668
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 198,
-        "knifeEnabledQuarterlyAverage": 16.5
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 246,
-        "knifeEnabledQuarterlyAverage": 20.5
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 294,
-        "knifeEnabledQuarterlyAverage": 24.5
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 306,
-        "knifeEnabledQuarterlyAverage": 25.5
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 329,
-        "knifeEnabledQuarterlyAverage": 27.416666666666668
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 389,
-        "knifeEnabledQuarterlyAverage": 32.416666666666664
-      }
-    ],
-    "regionTotal": 2793,
-    "name": "North East"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 654,
-        "knifeEnabledQuarterlyAverage": 32.7
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 579,
-        "knifeEnabledQuarterlyAverage": 28.95
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 512,
-        "knifeEnabledQuarterlyAverage": 25.6
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 463,
-        "knifeEnabledQuarterlyAverage": 23.15
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 380,
-        "knifeEnabledQuarterlyAverage": 19
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 325,
-        "knifeEnabledQuarterlyAverage": 16.25
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 415,
-        "knifeEnabledQuarterlyAverage": 20.75
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 339,
-        "knifeEnabledQuarterlyAverage": 16.95
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 488,
-        "knifeEnabledQuarterlyAverage": 24.4
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 532,
-        "knifeEnabledQuarterlyAverage": 26.6
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 641,
-        "knifeEnabledQuarterlyAverage": 32.05
-      }
-    ],
-    "regionTotal": 5328,
-    "name": "South West"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 931,
-        "knifeEnabledQuarterlyAverage": 38.791666666666664
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 747,
-        "knifeEnabledQuarterlyAverage": 31.125
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 731,
-        "knifeEnabledQuarterlyAverage": 30.458333333333332
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 638,
-        "knifeEnabledQuarterlyAverage": 26.583333333333332
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 622,
-        "knifeEnabledQuarterlyAverage": 25.916666666666668
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 610,
-        "knifeEnabledQuarterlyAverage": 25.416666666666668
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 622,
-        "knifeEnabledQuarterlyAverage": 25.916666666666668
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 722,
-        "knifeEnabledQuarterlyAverage": 30.083333333333332
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 998,
-        "knifeEnabledQuarterlyAverage": 41.583333333333336
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 1100,
-        "knifeEnabledQuarterlyAverage": 45.833333333333336
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 1116,
-        "knifeEnabledQuarterlyAverage": 46.5
-      }
-    ],
-    "regionTotal": 8837,
-    "name": "East"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 1062,
-        "knifeEnabledQuarterlyAverage": 53.1
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 943,
-        "knifeEnabledQuarterlyAverage": 47.15
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 790,
-        "knifeEnabledQuarterlyAverage": 39.5
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 810,
-        "knifeEnabledQuarterlyAverage": 40.5
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 713,
-        "knifeEnabledQuarterlyAverage": 35.65
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 791,
-        "knifeEnabledQuarterlyAverage": 39.55
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 707,
-        "knifeEnabledQuarterlyAverage": 35.35
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 607,
-        "knifeEnabledQuarterlyAverage": 30.35
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 794,
-        "knifeEnabledQuarterlyAverage": 39.7
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 977,
-        "knifeEnabledQuarterlyAverage": 48.85
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 1081,
-        "knifeEnabledQuarterlyAverage": 54.05
-      }
-    ],
-    "regionTotal": 9275,
-    "name": "East Midlands"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 1128,
-        "knifeEnabledQuarterlyAverage": 56.4
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 996,
-        "knifeEnabledQuarterlyAverage": 49.8
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 936,
-        "knifeEnabledQuarterlyAverage": 46.8
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 894,
-        "knifeEnabledQuarterlyAverage": 44.7
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 776,
-        "knifeEnabledQuarterlyAverage": 38.8
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 657,
-        "knifeEnabledQuarterlyAverage": 32.85
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 527,
-        "knifeEnabledQuarterlyAverage": 26.35
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 692,
-        "knifeEnabledQuarterlyAverage": 34.6
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 863,
-        "knifeEnabledQuarterlyAverage": 43.15
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 1096,
-        "knifeEnabledQuarterlyAverage": 54.8
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 1558,
-        "knifeEnabledQuarterlyAverage": 77.9
-      }
-    ],
-    "regionTotal": 10123,
-    "name": "South East"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 996,
-        "knifeEnabledQuarterlyAverage": 62.25
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 994,
-        "knifeEnabledQuarterlyAverage": 62.125
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 1011,
-        "knifeEnabledQuarterlyAverage": 63.1875
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 898,
-        "knifeEnabledQuarterlyAverage": 56.125
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 873,
-        "knifeEnabledQuarterlyAverage": 54.5625
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 891,
-        "knifeEnabledQuarterlyAverage": 55.6875
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 928,
-        "knifeEnabledQuarterlyAverage": 58
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 953,
-        "knifeEnabledQuarterlyAverage": 59.5625
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 1141,
-        "knifeEnabledQuarterlyAverage": 71.3125
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 1532,
-        "knifeEnabledQuarterlyAverage": 95.75
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 1653,
-        "knifeEnabledQuarterlyAverage": 103.3125
-      }
-    ],
-    "regionTotal": 11870,
-    "name": "Yorkshire"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 2181,
-        "knifeEnabledQuarterlyAverage": 136.3125
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 1863,
-        "knifeEnabledQuarterlyAverage": 116.4375
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 2153,
-        "knifeEnabledQuarterlyAverage": 134.5625
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 1633,
-        "knifeEnabledQuarterlyAverage": 102.0625
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 1087,
-        "knifeEnabledQuarterlyAverage": 67.9375
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 1157,
-        "knifeEnabledQuarterlyAverage": 72.3125
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 1050,
-        "knifeEnabledQuarterlyAverage": 65.625
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 1314,
-        "knifeEnabledQuarterlyAverage": 82.125
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 1614,
-        "knifeEnabledQuarterlyAverage": 100.875
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 2072,
-        "knifeEnabledQuarterlyAverage": 129.5
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 2461,
-        "knifeEnabledQuarterlyAverage": 153.8125
-      }
-    ],
-    "regionTotal": 18585,
-    "name": "West Midlands"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 2424,
-        "knifeEnabledQuarterlyAverage": 121.2
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 1946,
-        "knifeEnabledQuarterlyAverage": 97.3
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 1737,
-        "knifeEnabledQuarterlyAverage": 86.85
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 1527,
-        "knifeEnabledQuarterlyAverage": 76.35
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 1371,
-        "knifeEnabledQuarterlyAverage": 68.55
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 1519,
-        "knifeEnabledQuarterlyAverage": 75.95
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 1257,
-        "knifeEnabledQuarterlyAverage": 62.85
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 1242,
-        "knifeEnabledQuarterlyAverage": 62.1
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 1341,
-        "knifeEnabledQuarterlyAverage": 67.05
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 1768,
-        "knifeEnabledQuarterlyAverage": 88.4
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 2662,
-        "knifeEnabledQuarterlyAverage": 133.1
-      }
-    ],
-    "regionTotal": 18794,
-    "name": "North West"
-  },
-  {
-    "years": [
-      {
-        "year": "2008/09",
-        "knifeEnabledYearTotal": 6991,
-        "knifeEnabledQuarterlyAverage": 1747.75
-      },
-      {
-        "year": "2009/10",
-        "knifeEnabledYearTotal": 7286,
-        "knifeEnabledQuarterlyAverage": 1821.5
-      },
-      {
-        "year": "2010/11",
-        "knifeEnabledYearTotal": 8334,
-        "knifeEnabledQuarterlyAverage": 2083.5
-      },
-      {
-        "year": "2011/12",
-        "knifeEnabledYearTotal": 9438,
-        "knifeEnabledQuarterlyAverage": 2359.5
-      },
-      {
-        "year": "2012/13",
-        "knifeEnabledYearTotal": 7256,
-        "knifeEnabledQuarterlyAverage": 1814
-      },
-      {
-        "year": "2013/14",
-        "knifeEnabledYearTotal": 5935,
-        "knifeEnabledQuarterlyAverage": 1483.75
-      },
-      {
-        "year": "2014/15",
-        "knifeEnabledYearTotal": 4820,
-        "knifeEnabledQuarterlyAverage": 1205
-      },
-      {
-        "year": "2015/16",
-        "knifeEnabledYearTotal": 4605,
-        "knifeEnabledQuarterlyAverage": 1151.25
-      },
-      {
-        "year": "2016/17",
-        "knifeEnabledYearTotal": 5800,
-        "knifeEnabledQuarterlyAverage": 1450
-      },
-      {
-        "year": "2017/18",
-        "knifeEnabledYearTotal": 8221,
-        "knifeEnabledQuarterlyAverage": 2055.25
-      },
-      {
-        "year": "2018/19",
-        "knifeEnabledYearTotal": 8848,
-        "knifeEnabledQuarterlyAverage": 2212
-      }
-    ],
-    "regionTotal": 77534,
-    "name": "London"
-  }
-]
+{
+  "forceNames": [
+    "East",
+    "East Midlands",
+    "London",
+    "North East",
+    "North West",
+    "South East",
+    "South West",
+    "Wales",
+    "West Midlands",
+    "Yorkshire"
+  ],
+  "regionOverview": [
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 942,
+          "knifeCrimeQuarterlyAverage": 58.875
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 784,
+          "knifeCrimeQuarterlyAverage": 49
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 741,
+          "knifeCrimeQuarterlyAverage": 46.3125
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 624,
+          "knifeCrimeQuarterlyAverage": 39
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 625,
+          "knifeCrimeQuarterlyAverage": 39.0625
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 576,
+          "knifeCrimeQuarterlyAverage": 36
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 746,
+          "knifeCrimeQuarterlyAverage": 46.625
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 738,
+          "knifeCrimeQuarterlyAverage": 46.125
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 902,
+          "knifeCrimeQuarterlyAverage": 56.375
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 1135,
+          "knifeCrimeQuarterlyAverage": 70.9375
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 1353,
+          "knifeCrimeQuarterlyAverage": 84.5625
+        }
+      ],
+      "knifeCrimeTotal": 9166,
+      "name": "Wales"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 835,
+          "knifeCrimeQuarterlyAverage": 69.58333333333333
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 750,
+          "knifeCrimeQuarterlyAverage": 62.5
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 768,
+          "knifeCrimeQuarterlyAverage": 64
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 732,
+          "knifeCrimeQuarterlyAverage": 61
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 652,
+          "knifeCrimeQuarterlyAverage": 54.333333333333336
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 684,
+          "knifeCrimeQuarterlyAverage": 57
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 837,
+          "knifeCrimeQuarterlyAverage": 69.75
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 1035,
+          "knifeCrimeQuarterlyAverage": 86.25
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 1003,
+          "knifeCrimeQuarterlyAverage": 83.58333333333333
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 1029,
+          "knifeCrimeQuarterlyAverage": 85.75
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 1415,
+          "knifeCrimeQuarterlyAverage": 117.91666666666667
+        }
+      ],
+      "knifeCrimeTotal": 9740,
+      "name": "North East"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 1903,
+          "knifeCrimeQuarterlyAverage": 95.15
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 1699,
+          "knifeCrimeQuarterlyAverage": 84.95
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 1456,
+          "knifeCrimeQuarterlyAverage": 72.8
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 1297,
+          "knifeCrimeQuarterlyAverage": 64.85
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 1061,
+          "knifeCrimeQuarterlyAverage": 53.05
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 1091,
+          "knifeCrimeQuarterlyAverage": 54.55
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 1197,
+          "knifeCrimeQuarterlyAverage": 59.85
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 1288,
+          "knifeCrimeQuarterlyAverage": 64.4
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 1695,
+          "knifeCrimeQuarterlyAverage": 84.75
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 1710,
+          "knifeCrimeQuarterlyAverage": 85.5
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 2105,
+          "knifeCrimeQuarterlyAverage": 105.25
+        }
+      ],
+      "knifeCrimeTotal": 16502,
+      "name": "South West"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 2106,
+          "knifeCrimeQuarterlyAverage": 87.75
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 1954,
+          "knifeCrimeQuarterlyAverage": 81.41666666666667
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 1831,
+          "knifeCrimeQuarterlyAverage": 76.29166666666667
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 1515,
+          "knifeCrimeQuarterlyAverage": 63.125
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 1437,
+          "knifeCrimeQuarterlyAverage": 59.875
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 1499,
+          "knifeCrimeQuarterlyAverage": 62.458333333333336
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 1840,
+          "knifeCrimeQuarterlyAverage": 76.66666666666667
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 2253,
+          "knifeCrimeQuarterlyAverage": 93.875
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 3009,
+          "knifeCrimeQuarterlyAverage": 125.375
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 2847,
+          "knifeCrimeQuarterlyAverage": 118.625
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 2765,
+          "knifeCrimeQuarterlyAverage": 115.20833333333333
+        }
+      ],
+      "knifeCrimeTotal": 23056,
+      "name": "East"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 2319,
+          "knifeCrimeQuarterlyAverage": 115.95
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 2016,
+          "knifeCrimeQuarterlyAverage": 100.8
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 1855,
+          "knifeCrimeQuarterlyAverage": 92.75
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 1764,
+          "knifeCrimeQuarterlyAverage": 88.2
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 1732,
+          "knifeCrimeQuarterlyAverage": 86.6
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 1859,
+          "knifeCrimeQuarterlyAverage": 92.95
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 1738,
+          "knifeCrimeQuarterlyAverage": 86.9
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 1896,
+          "knifeCrimeQuarterlyAverage": 94.8
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 2247,
+          "knifeCrimeQuarterlyAverage": 112.35
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 2721,
+          "knifeCrimeQuarterlyAverage": 136.05
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 3150,
+          "knifeCrimeQuarterlyAverage": 157.5
+        }
+      ],
+      "knifeCrimeTotal": 23297,
+      "name": "East Midlands"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 3246,
+          "knifeCrimeQuarterlyAverage": 162.3
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 2931,
+          "knifeCrimeQuarterlyAverage": 146.55
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 2373,
+          "knifeCrimeQuarterlyAverage": 118.65
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 2154,
+          "knifeCrimeQuarterlyAverage": 107.7
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 1980,
+          "knifeCrimeQuarterlyAverage": 99
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 1860,
+          "knifeCrimeQuarterlyAverage": 93
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 1777,
+          "knifeCrimeQuarterlyAverage": 88.85
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 2317,
+          "knifeCrimeQuarterlyAverage": 115.85
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 2748,
+          "knifeCrimeQuarterlyAverage": 137.4
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 3318,
+          "knifeCrimeQuarterlyAverage": 165.9
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 4477,
+          "knifeCrimeQuarterlyAverage": 223.85
+        }
+      ],
+      "knifeCrimeTotal": 29181,
+      "name": "South East"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 2561,
+          "knifeCrimeQuarterlyAverage": 160.0625
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 2475,
+          "knifeCrimeQuarterlyAverage": 154.6875
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 2374,
+          "knifeCrimeQuarterlyAverage": 148.375
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 2184,
+          "knifeCrimeQuarterlyAverage": 136.5
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 2059,
+          "knifeCrimeQuarterlyAverage": 128.6875
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 2159,
+          "knifeCrimeQuarterlyAverage": 134.9375
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 2351,
+          "knifeCrimeQuarterlyAverage": 146.9375
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 2827,
+          "knifeCrimeQuarterlyAverage": 176.6875
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 3465,
+          "knifeCrimeQuarterlyAverage": 216.5625
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 4291,
+          "knifeCrimeQuarterlyAverage": 268.1875
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 4666,
+          "knifeCrimeQuarterlyAverage": 291.625
+        }
+      ],
+      "knifeCrimeTotal": 31412,
+      "name": "Yorkshire"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 4731,
+          "knifeCrimeQuarterlyAverage": 295.6875
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 4147,
+          "knifeCrimeQuarterlyAverage": 259.1875
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 3977,
+          "knifeCrimeQuarterlyAverage": 248.5625
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 3101,
+          "knifeCrimeQuarterlyAverage": 193.8125
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 2302,
+          "knifeCrimeQuarterlyAverage": 143.875
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 2414,
+          "knifeCrimeQuarterlyAverage": 150.875
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 2471,
+          "knifeCrimeQuarterlyAverage": 154.4375
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 3173,
+          "knifeCrimeQuarterlyAverage": 198.3125
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 3678,
+          "knifeCrimeQuarterlyAverage": 229.875
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 4234,
+          "knifeCrimeQuarterlyAverage": 264.625
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 4906,
+          "knifeCrimeQuarterlyAverage": 306.625
+        }
+      ],
+      "knifeCrimeTotal": 39134,
+      "name": "West Midlands"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 5023,
+          "knifeCrimeQuarterlyAverage": 251.15
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 4177,
+          "knifeCrimeQuarterlyAverage": 208.85
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 3715,
+          "knifeCrimeQuarterlyAverage": 185.75
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 3347,
+          "knifeCrimeQuarterlyAverage": 167.35
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 3070,
+          "knifeCrimeQuarterlyAverage": 153.5
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 3296,
+          "knifeCrimeQuarterlyAverage": 164.8
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 3338,
+          "knifeCrimeQuarterlyAverage": 166.9
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 3505,
+          "knifeCrimeQuarterlyAverage": 175.25
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 3669,
+          "knifeCrimeQuarterlyAverage": 183.45
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 4289,
+          "knifeCrimeQuarterlyAverage": 214.45
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 6659,
+          "knifeCrimeQuarterlyAverage": 332.95
+        }
+      ],
+      "knifeCrimeTotal": 44088,
+      "name": "North West"
+    },
+    {
+      "years": [
+        {
+          "year": "2008/09",
+          "knifeCrimeYearTotal": 12309,
+          "knifeCrimeQuarterlyAverage": 3077.25
+        },
+        {
+          "year": "2009/10",
+          "knifeCrimeYearTotal": 12610,
+          "knifeCrimeQuarterlyAverage": 3152.5
+        },
+        {
+          "year": "2010/11",
+          "knifeCrimeYearTotal": 13341,
+          "knifeCrimeQuarterlyAverage": 3335.25
+        },
+        {
+          "year": "2011/12",
+          "knifeCrimeYearTotal": 14170,
+          "knifeCrimeQuarterlyAverage": 3542.5
+        },
+        {
+          "year": "2012/13",
+          "knifeCrimeYearTotal": 11377,
+          "knifeCrimeQuarterlyAverage": 2844.25
+        },
+        {
+          "year": "2013/14",
+          "knifeCrimeYearTotal": 10064,
+          "knifeCrimeQuarterlyAverage": 2516
+        },
+        {
+          "year": "2014/15",
+          "knifeCrimeYearTotal": 9680,
+          "knifeCrimeQuarterlyAverage": 2420
+        },
+        {
+          "year": "2015/16",
+          "knifeCrimeYearTotal": 9738,
+          "knifeCrimeQuarterlyAverage": 2434.5
+        },
+        {
+          "year": "2016/17",
+          "knifeCrimeYearTotal": 12060,
+          "knifeCrimeQuarterlyAverage": 3015
+        },
+        {
+          "year": "2017/18",
+          "knifeCrimeYearTotal": 14707,
+          "knifeCrimeQuarterlyAverage": 3676.75
+        },
+        {
+          "year": "2018/19",
+          "knifeCrimeYearTotal": 14840,
+          "knifeCrimeQuarterlyAverage": 3710
+        }
+      ],
+      "knifeCrimeTotal": 134896,
+      "name": "London"
+    }
+  ],
+  "knifeCrimeDataPointsByRegion": [
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 204
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 230
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 238
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 270
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 223
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 219
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 150
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 192
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 172
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 185
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 187
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 197
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 174
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 142
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 163
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 145
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 152
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 159
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 140
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 174
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 150
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 120
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 163
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 143
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 190
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 197
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 181
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 178
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 164
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 191
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 189
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 194
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 177
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 222
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 286
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 217
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 242
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 272
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 321
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 300
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 362
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 372
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 346
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 273
+        }
+      ],
+      "total": 9166,
+      "name": "Wales"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 223
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 210
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 196
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 206
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 190
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 210
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 171
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 179
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 201
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 177
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 182
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 208
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 188
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 199
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 171
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 174
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 152
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 148
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 170
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 182
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 135
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 181
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 179
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 189
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 170
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 220
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 234
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 213
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 241
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 274
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 257
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 263
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 213
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 250
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 256
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 284
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 246
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 267
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 272
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 244
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 195
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 409
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 412
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 399
+        }
+      ],
+      "total": 9740,
+      "name": "North East"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 481
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 569
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 430
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 423
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 479
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 410
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 449
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 361
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 413
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 332
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 354
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 357
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 321
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 368
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 346
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 262
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 285
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 290
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 239
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 247
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 253
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 271
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 305
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 262
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 313
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 292
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 293
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 299
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 300
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 311
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 371
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 306
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 402
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 418
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 445
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 430
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 399
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 502
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 399
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 410
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 505
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 550
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 542
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 508
+        }
+      ],
+      "total": 16502,
+      "name": "South West"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 488
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 545
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 532
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 541
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 469
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 546
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 470
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 469
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 492
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 499
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 401
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 439
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 379
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 406
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 363
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 367
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 391
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 370
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 363
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 313
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 347
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 366
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 390
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 396
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 427
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 478
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 470
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 465
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 516
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 500
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 616
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 621
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 642
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 713
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 805
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 849
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 804
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 694
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 718
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 631
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 582
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 751
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 631
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 801
+        }
+      ],
+      "total": 23056,
+      "name": "East"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 537
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 636
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 568
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 578
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 472
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 494
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 483
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 567
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 514
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 444
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 390
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 507
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 481
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 415
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 480
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 388
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 526
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 390
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 359
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 457
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 410
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 487
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 482
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 480
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 429
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 419
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 478
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 412
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 502
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 459
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 481
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 454
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 505
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 520
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 535
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 687
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 635
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 683
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 675
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 728
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 818
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 765
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 730
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 837
+        }
+      ],
+      "total": 23297,
+      "name": "East Midlands"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 854
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 907
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 762
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 723
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 801
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 778
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 709
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 643
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 626
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 558
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 573
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 616
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 521
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 531
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 595
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 507
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 476
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 486
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 531
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 487
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 425
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 463
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 453
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 519
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 446
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 441
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 429
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 461
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 546
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 616
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 569
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 586
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 578
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 706
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 693
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 771
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 818
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 809
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 836
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 855
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 915
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 1209
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 1212
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 1141
+        }
+      ],
+      "total": 29181,
+      "name": "South East"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 603
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 648
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 676
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 634
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 648
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 577
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 594
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 656
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 578
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 558
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 593
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 645
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 556
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 543
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 576
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 509
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 471
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 495
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 592
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 501
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 524
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 550
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 539
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 546
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 552
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 519
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 648
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 632
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 653
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 693
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 762
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 719
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 760
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 833
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 962
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 910
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 1062
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 1059
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 1051
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 1119
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 1137
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 1205
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 1172
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 1152
+        }
+      ],
+      "total": 31412,
+      "name": "Yorkshire"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 1147
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 1211
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 1138
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 1235
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 1073
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 1061
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 1020
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 993
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 949
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 903
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 1054
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 1071
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 882
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 775
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 746
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 698
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 591
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 575
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 596
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 540
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 601
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 629
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 586
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 598
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 556
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 617
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 640
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 658
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 710
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 796
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 831
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 836
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 862
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 864
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 991
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 961
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 1015
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 1011
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 1110
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 1098
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 1108
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 1152
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 1307
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 1339
+        }
+      ],
+      "total": 39134,
+      "name": "West Midlands"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 1112
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 1242
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 1312
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 1357
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 1129
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 1024
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 1010
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 1014
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 885
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 907
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 936
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 987
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 786
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 780
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 912
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 869
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 672
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 813
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 834
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 751
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 794
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 809
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 858
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 835
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 784
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 772
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 899
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 883
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 810
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 898
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 905
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 892
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 882
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 940
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 974
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 873
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 892
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 942
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 962
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 1493
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 1649
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 1649
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 1763
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 1598
+        }
+      ],
+      "total": 44088,
+      "name": "North West"
+    },
+    {
+      "points": [
+        {
+          "year": "2008/09",
+          "quarter": "Q1",
+          "knifeCrime": 3135
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q2",
+          "knifeCrime": 3371
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q3",
+          "knifeCrime": 3020
+        },
+        {
+          "year": "2008/09",
+          "quarter": "Q4",
+          "knifeCrime": 2783
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q1",
+          "knifeCrime": 3200
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q2",
+          "knifeCrime": 3033
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q3",
+          "knifeCrime": 3025
+        },
+        {
+          "year": "2009/10",
+          "quarter": "Q4",
+          "knifeCrime": 3352
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q1",
+          "knifeCrime": 3291
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q2",
+          "knifeCrime": 3066
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q3",
+          "knifeCrime": 3278
+        },
+        {
+          "year": "2010/11",
+          "quarter": "Q4",
+          "knifeCrime": 3706
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q1",
+          "knifeCrime": 3761
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q2",
+          "knifeCrime": 3483
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q3",
+          "knifeCrime": 3567
+        },
+        {
+          "year": "2011/12",
+          "quarter": "Q4",
+          "knifeCrime": 3359
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q1",
+          "knifeCrime": 2961
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q2",
+          "knifeCrime": 2767
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q3",
+          "knifeCrime": 2963
+        },
+        {
+          "year": "2012/13",
+          "quarter": "Q4",
+          "knifeCrime": 2686
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q1",
+          "knifeCrime": 2522
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q2",
+          "knifeCrime": 2666
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q3",
+          "knifeCrime": 2535
+        },
+        {
+          "year": "2013/14",
+          "quarter": "Q4",
+          "knifeCrime": 2341
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q1",
+          "knifeCrime": 2364
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q2",
+          "knifeCrime": 2268
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q3",
+          "knifeCrime": 2528
+        },
+        {
+          "year": "2014/15",
+          "quarter": "Q4",
+          "knifeCrime": 2520
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q1",
+          "knifeCrime": 2596
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q2",
+          "knifeCrime": 2380
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q3",
+          "knifeCrime": 2466
+        },
+        {
+          "year": "2015/16",
+          "quarter": "Q4",
+          "knifeCrime": 2296
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q1",
+          "knifeCrime": 2631
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q2",
+          "knifeCrime": 3120
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q3",
+          "knifeCrime": 3041
+        },
+        {
+          "year": "2016/17",
+          "quarter": "Q4",
+          "knifeCrime": 3268
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q1",
+          "knifeCrime": 3617
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q2",
+          "knifeCrime": 3797
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q3",
+          "knifeCrime": 3822
+        },
+        {
+          "year": "2017/18",
+          "quarter": "Q4",
+          "knifeCrime": 3471
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q1",
+          "knifeCrime": 3857
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q2",
+          "knifeCrime": 3640
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q3",
+          "knifeCrime": 3693
+        },
+        {
+          "year": "2018/19",
+          "quarter": "Q4",
+          "knifeCrime": 3650
+        }
+      ],
+      "total": 134896,
+      "name": "London"
+    }
+  ]
+}
