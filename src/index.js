@@ -19,6 +19,23 @@ const client = new MongoClient(url, {
 
     const forceNames = await byQuarterCollection.distinct('Region');
 
+    const quarterlyAverages = await byQuarterCollection.aggregate([
+      { $group: {
+        _id: {
+          year: '$financialYear',
+          quarter: '$financialQuarter',
+        },
+        knifeCrime: { $avg: '$knifeCrime' },
+      } },
+      { $sort: { '_id.year': 1, '_id.quarter': 1 } },
+      { $project: {
+        _id: 0,
+        year: '$_id.year',
+        quarter: '$_id.quarter',
+        knifeCrime: { $round: ['$knifeCrime', 3] },
+      } },
+    ]).toArray();
+
     const regionOverview = await byQuarterCollection.aggregate([
       { $group: {
         _id: {
@@ -81,8 +98,11 @@ const client = new MongoClient(url, {
     const dataToWrite = {
       forceNames,
       regionOverview,
+      quarterlyAverages,
       knifeCrimeDataPointsByRegion,
     };
+
+    // console.log('records: %o', records);
 
     // writeToFile(dataToWrite, `data/exports/data.json`);
   } catch ({ stack }) {
