@@ -623,6 +623,228 @@
       "name": "London"
     }
   ],
+  "quarterlyAverages": [
+    {
+      "year": "2008/09",
+      "quarter": "Q1",
+      "knifeCrime": 209.143
+    },
+    {
+      "year": "2008/09",
+      "quarter": "Q2",
+      "knifeCrime": 227.833
+    },
+    {
+      "year": "2008/09",
+      "quarter": "Q3",
+      "knifeCrime": 211.238
+    },
+    {
+      "year": "2008/09",
+      "quarter": "Q4",
+      "knifeCrime": 208.333
+    },
+    {
+      "year": "2009/10",
+      "quarter": "Q1",
+      "knifeCrime": 206.762
+    },
+    {
+      "year": "2009/10",
+      "quarter": "Q2",
+      "knifeCrime": 198.857
+    },
+    {
+      "year": "2009/10",
+      "quarter": "Q3",
+      "knifeCrime": 192.405
+    },
+    {
+      "year": "2009/10",
+      "quarter": "Q4",
+      "knifeCrime": 200.619
+    },
+    {
+      "year": "2010/11",
+      "quarter": "Q1",
+      "knifeCrime": 193.357
+    },
+    {
+      "year": "2010/11",
+      "quarter": "Q2",
+      "knifeCrime": 181.643
+    },
+    {
+      "year": "2010/11",
+      "quarter": "Q3",
+      "knifeCrime": 189.238
+    },
+    {
+      "year": "2010/11",
+      "quarter": "Q4",
+      "knifeCrime": 207.929
+    },
+    {
+      "year": "2011/12",
+      "quarter": "Q1",
+      "knifeCrime": 191.643
+    },
+    {
+      "year": "2011/12",
+      "quarter": "Q2",
+      "knifeCrime": 181.952
+    },
+    {
+      "year": "2011/12",
+      "quarter": "Q3",
+      "knifeCrime": 188.548
+    },
+    {
+      "year": "2011/12",
+      "quarter": "Q4",
+      "knifeCrime": 173.286
+    },
+    {
+      "year": "2012/13",
+      "quarter": "Q1",
+      "knifeCrime": 158.976
+    },
+    {
+      "year": "2012/13",
+      "quarter": "Q2",
+      "knifeCrime": 154.595
+    },
+    {
+      "year": "2012/13",
+      "quarter": "Q3",
+      "knifeCrime": 161.595
+    },
+    {
+      "year": "2012/13",
+      "quarter": "Q4",
+      "knifeCrime": 150.905
+    },
+    {
+      "year": "2013/14",
+      "quarter": "Q1",
+      "knifeCrime": 146.69
+    },
+    {
+      "year": "2013/14",
+      "quarter": "Q2",
+      "knifeCrime": 155.762
+    },
+    {
+      "year": "2013/14",
+      "quarter": "Q3",
+      "knifeCrime": 154.524
+    },
+    {
+      "year": "2013/14",
+      "quarter": "Q4",
+      "knifeCrime": 150.214
+    },
+    {
+      "year": "2014/15",
+      "quarter": "Q1",
+      "knifeCrime": 148.357
+    },
+    {
+      "year": "2014/15",
+      "quarter": "Q2",
+      "knifeCrime": 148.167
+    },
+    {
+      "year": "2014/15",
+      "quarter": "Q3",
+      "knifeCrime": 161.905
+    },
+    {
+      "year": "2014/15",
+      "quarter": "Q4",
+      "knifeCrime": 160.024
+    },
+    {
+      "year": "2015/16",
+      "quarter": "Q1",
+      "knifeCrime": 167.571
+    },
+    {
+      "year": "2015/16",
+      "quarter": "Q2",
+      "knifeCrime": 169.476
+    },
+    {
+      "year": "2015/16",
+      "quarter": "Q3",
+      "knifeCrime": 177.31
+    },
+    {
+      "year": "2015/16",
+      "quarter": "Q4",
+      "knifeCrime": 170.643
+    },
+    {
+      "year": "2016/17",
+      "quarter": "Q1",
+      "knifeCrime": 182.19
+    },
+    {
+      "year": "2016/17",
+      "quarter": "Q2",
+      "knifeCrime": 204.429
+    },
+    {
+      "year": "2016/17",
+      "quarter": "Q3",
+      "knifeCrime": 214
+    },
+    {
+      "year": "2016/17",
+      "quarter": "Q4",
+      "knifeCrime": 220.238
+    },
+    {
+      "year": "2017/18",
+      "quarter": "Q1",
+      "knifeCrime": 231.667
+    },
+    {
+      "year": "2017/18",
+      "quarter": "Q2",
+      "knifeCrime": 238.952
+    },
+    {
+      "year": "2017/18",
+      "quarter": "Q3",
+      "knifeCrime": 242.048
+    },
+    {
+      "year": "2017/18",
+      "quarter": "Q4",
+      "knifeCrime": 246.405
+    },
+    {
+      "year": "2018/19",
+      "quarter": "Q1",
+      "knifeCrime": 264.952
+    },
+    {
+      "year": "2018/19",
+      "quarter": "Q2",
+      "knifeCrime": 278.619
+    },
+    {
+      "year": "2018/19",
+      "quarter": "Q3",
+      "knifeCrime": 281.143
+    },
+    {
+      "year": "2018/19",
+      "quarter": "Q4",
+      "knifeCrime": 278.524
+    }
+  ],
   "knifeCrimeDataPointsByRegion": [
     {
       "points": [
