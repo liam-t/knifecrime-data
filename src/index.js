@@ -24,6 +24,14 @@ const client = new MongoClient(url, {
         _id: {
           year: '$financialYear',
           quarter: '$financialQuarter',
+          region: '$Region',
+        },
+        knifeCrime: { $sum: '$knifeCrime' },
+      } },
+      { $group: {
+        _id: {
+          year: '$_id.year',
+          quarter: '$_id.quarter',
         },
         knifeCrime: { $avg: '$knifeCrime' },
       } },
@@ -32,7 +40,8 @@ const client = new MongoClient(url, {
         _id: 0,
         year: '$_id.year',
         quarter: '$_id.quarter',
-        knifeCrime: { $round: ['$knifeCrime', 3] },
+        knifeCrime: '$knifeCrime',
+        // knifeCrime: { $round: ['$knifeCrime', 3] },
       } },
     ]).toArray();
 
@@ -102,6 +111,7 @@ const client = new MongoClient(url, {
       knifeCrimeDataPointsByRegion,
     };
 
+    console.log('quarterlyAverages: %o', quarterlyAverages);
     // console.log('records: %o', records);
 
     // writeToFile(dataToWrite, `data/exports/data.json`);
